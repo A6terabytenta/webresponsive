@@ -117,3 +117,17 @@ h4{
 	
 	}
 }
+
+/* Tuan Anh */
+	.img_float_right {
+		float: none;
+	}
+
+	.img_float_left {
+		float: none;
+	}
+	
+	.list_image {
+		text-align: center;
+	}
+	/* End Tuan Anh */
