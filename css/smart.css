@@ -131,6 +131,12 @@
 	}
 
 	/* --------- facial ---------- */
+	.ficial_header {
+		width: 90%;
+		margin: 0px auto;
+		text-align: justify;
+		margin-bottom: 20px;
+	}
 	.text_align_center {
 		text-align: left;
 		padding-left: 10px;
@@ -142,7 +148,7 @@
 	}
 
 	.facial_item .wrap {
-		width: 100%;
+		width: 98%;
 		float: none;
 	}
 	/* End Tuan Anh */
