@@ -686,4 +686,58 @@ h4{
 	display: inline-block;
 	padding: 5px;
 }
+
+/* -------- facial --------- */
+.margin_top {
+	margin-top: 10px;
+}
+.ficial_header {
+	width: 80%;
+	margin: 0px auto;
+	text-align: justify;
+	margin-bottom: 20px;
+}
+
+.facial_button {
+	width: 250px;
+	padding: 10px 0;
+	margin: 20px auto 0px auto;
+	background: #e9dfd9;
+}
+
+.facial_item {
+	width: 100%;
+	display: inline-block;
+	margin-bottom: 40px;
+	text-align: center;
+	overflow: auto;
+}
+
+.facial_item img{
+	float: left;
+	clear: right;
+	width: 40%;
+}
+.facial_item .wrap{
+	width: 55%;
+	float: left;
+}
+.text_align_left {
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.text_align_center {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.facial_item_button {
+	float: right;
+	padding: 10px 0;
+	margin: 30px 20px 20px 0px;
+	width: 200px;
+	background: #e9dfd9;
+}
+
 /* End Tuan Anh */	

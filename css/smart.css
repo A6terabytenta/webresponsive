@@ -129,6 +129,22 @@
 	.list_image {
 		text-align: center;
 	}
+
+	/* --------- facial ---------- */
+	.text_align_center {
+		text-align: left;
+		padding-left: 10px;
+		margin-bottom: 10px;
+	}
+
+	.facial_item img {
+		float: none;
+	}
+
+	.facial_item .wrap {
+		width: 100%;
+		float: none;
+	}
 	/* End Tuan Anh */
 }
 
